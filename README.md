@@ -43,6 +43,6 @@ The MCM Series is therefore **not a conclusion**, but **a beginning** —  an in
 
 ## Keywords
 
-Monistic Continuum Model, Continuum Physics, Emergence, Physical Structures, Ontological Framework, Spacetime Geometry, Field Dynamics, Stress and Rotation, Medium Theory, Cosmological Continuum, Quantum Correspondence, Unified Field Concept, Scientific Ontology
+Monistic Continuum Model, MCM, Continuum Physics, Emergence, Physical Structures, Ontological Framework, Spacetime Geometry, Field Dynamics, Stress and Rotation, Medium Theory, Cosmological Continuum, Quantum Correspondence, Unified Field Concept, Scientific Ontology
 
 
