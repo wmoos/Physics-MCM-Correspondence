@@ -18,7 +18,6 @@ It shows how all physical structures — **space, time, fields, particles, and f
 Each article in the series addresses a specific level of physical emergence and traces established physics back to pre-spatial processes.
 
   MCM Continuum Physics Series
-  -
   - 01_Physics--MCM Correspondence
   - 02_Physics Derived from the MCM (forthcoming)
   - 03_Observable Phenomena of the MCM (forthcoming)
