@@ -37,8 +37,7 @@ Its aim is not only to explain the role of the Monistic Continuum Model within p
 Understanding does not arise merely from reflecting on what has been achieved, but from reconsidering what is achievable.  
 Only those who recognize the limits of their own models can truly comprehend the cosmos.
 
-The MCM Series is therefore **not a conclusion**, but **a beginning** —  
-an invitation to not only extend physics, but to **rethink** it.
+The MCM Series is therefore **not a conclusion**, but **a beginning** —  an invitation to not only extend physics, but to **rethink** it.
 
 ---
 
