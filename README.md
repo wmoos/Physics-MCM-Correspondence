@@ -42,7 +42,6 @@ The MCM Series is therefore **not a conclusion**, but **a beginning** —  an in
 ---
 
 ## Keywords
-
-Monistic Continuum Model, MCM, Continuum Physics, Emergence, Physical Structures, Ontological Framework, Spacetime Geometry, Field Dynamics, Stress and Rotation, Medium Theory, Cosmological Continuum, Quantum Correspondence, Unified Field Concept, Scientific Ontology
+continuum-model, monistic-continuum-model, wmoos, Moosbrugger Walter, Wels, AT, Physik, Kosmos, Universum, Ontologie, Theorie, Preprints, continuum-physics, projection-vector-theory, planck-vortex-theory, pvt, mcm, operator-ontology, geometric-ontology, rotational-dynamics, pre-spatial-medium, continuum-rotation, projection-mechanisms, unified-physical-correspondence, dark-matter, electron-entanglement, black-holes, theoretical-physics, mathematical-physics, ontology-framework, continuum-dynamics, Klassische Mechanik, Elektromagnetismus, Thermodynamik, Statistische Mechanik, Spezielle Relativitätstheorie, Allgemeine Relativitätstheorie, Quantenmechanik, Standardmodell der Teilchenphysik, Kosmologie, Stringtheorie, Quantengravitation
 
 
